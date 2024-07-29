@@ -11,6 +11,6 @@ The model's performance is evaluated using mean absolute error (MAE) and mean sq
 ## Recursive Prediction
 The project demonstrates the model's ability to make recursive predictions, where each prediction is used as input to make the next prediction. This approach simulates real-world scenarios where predictions are made iteratively.
 # Getting Started
-- git clone https://github.com/rehman724/american-airlines-stock-price-prediction.git
+- git clone https://github.com/rehman724/American-Airlines-Stock-prediction-using-LSTM.git
 - pip install -r requirements.txt
 - python american_airlines_stock_price_prediction.py
